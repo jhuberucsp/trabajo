@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1496636935 source:d:\polimorfo\main.cpp
+	<iostream>
+	"PERSONA.h"
+	"BIRTHDAY.h"
+	"GERENTE.h"
+	"CONCERGE.h"
+
+1496636893 d:\polimorfo\include\persona.h
+	"BIRTHDAY.h"
+	<string>
+	<iostream>
+
+1496634294 d:\polimorfo\include\birthday.h
+	<iostream>
+
+1496634283 source:d:\polimorfo\src\birthday.cpp
+	"BIRTHDAY.h"
+
+1496636893 source:d:\polimorfo\src\persona.cpp
+	"PERSONA.h"
+
+1496636626 source:d:\polimorfo\src\gerente.cpp
+	"GERENTE.h"
+
+1496635961 d:\polimorfo\include\gerente.h
+	"PERSONA.h"
+	<iostream>
+
+1496636626 source:d:\polimorfo\src\concerge.cpp
+	"CONCERGE.h"
+
+1496636568 d:\polimorfo\include\concerge.h
+	"PERSONA.h"
+
